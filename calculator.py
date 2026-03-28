@@ -1,11 +1,11 @@
 #student ID:20119410
 def add(a,b):
 
-	pass
+	return a+b
 
 def subtract(a,b):
 
-	pass
+	return a-b
 
 def multiply(a,b):
 	return a*b
